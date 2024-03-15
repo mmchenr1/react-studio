@@ -22,6 +22,7 @@
   overflow: hidden;
   justify-content: center;
   margin-bottom: 20px;
+  max-width: 600px;
 }
 
 .BakeryItem h2{
@@ -40,6 +41,7 @@
 
 .BakeryItem img{
     display:block;
+
 }
 
 .BakeryItem-description{
